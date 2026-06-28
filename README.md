@@ -1,73 +1,112 @@
-# Hi there 👋, I'm Your Name
+<h1 align="center">Hi 👋, I'm AKSHATHA S</h1>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | React</h3>
 
-## 🚀 About Me
-- 💻 Software Developer
-- 🌱 Currently learning Full Stack Development
-- 🔭 Working on personal and open-source projects
-- 🎯 Goal: Build scalable web applications
-- ⚡ Fun fact: I love solving coding challenges.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 🔭 Currently working on Full Stack Development
+- 🌱 Learning Spring Boot, React, Microservices, Docker
+- 💬 Ask me about Java, Spring Boot, React, SQL
+- 📫 Reach me: **your-email@gmail.com**
+- ⚡ Fun fact: I enjoy solving coding challenges.
+
+---
+
+## 🚀 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,docker" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
----
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://YOUR_WEBSITE.com
-- Email: your.email@example.com
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-### 👀 Profile Views
+# 📈 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
-⭐ Thanks for visiting my profile!
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
